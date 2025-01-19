@@ -1,10 +1,10 @@
-# Sencha Web App
+# Reflect.ion
 
 Open-Source Web UI App for AI / Assistant
 
 **Current Stage: `pre-alpha`**
 
-## Sencha uses
+## Reflect.ion uses
 
 - [React](https://reactjs.org/)
 - [Material UI](https://mui.com)
